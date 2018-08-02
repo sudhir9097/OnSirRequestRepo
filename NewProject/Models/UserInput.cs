@@ -10,5 +10,6 @@ namespace GitDemoProject.Models
         public int user_input { get; set; }
         public string user_name { get; set; }
         public int salary { get; set; }
+        public string gender { get; set; }
     }
 }
